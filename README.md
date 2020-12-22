@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... DSA and Competitive Programming
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I make better puns than i make projects
--->
+
