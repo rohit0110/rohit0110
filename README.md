@@ -38,6 +38,8 @@
 
 ## GitHub Stats
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit0110&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rohit0110" />
+
 <img align="left" alt="rohit0110's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rohit0110&theme=tokyonight&show_icons=true&hide_border=true" />
 
 
