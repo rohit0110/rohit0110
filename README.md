@@ -2,10 +2,10 @@
 
 ## I'm a Student and Programmer!!
 
-- 🔭 I am working on a Resolution Keeper Website
-- 🌱 I’m currently learning MEAN stack
+- 🔭 I am working on a Gesture Recognition Project
+- 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to work on any projects!
-- 🥅 2021 Goal: Code Everyday
+- 🥅 2021 Goal: Get used to OpenCV
 - ⚡ Fun fact: I am better at making puns than i am at coding
 
 ### Connect with me:
