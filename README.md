@@ -2,10 +2,10 @@
 
 ## I'm a Student and Programmer!!
 
-- 🔭 I am working on a Gesture Recognition Project
-- 🌱 I’m currently learning Computer Vision
+- 🔭 I am working Flutter Applications!
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to work on any projects!
-- 🥅 2021 Goal: Get used to OpenCV
+- 🥅 2022 Goal: Build a wide variety of projects
 - ⚡ Fun fact: I am better at making puns than i am at coding
 
 ### Connect with me:
@@ -39,6 +39,8 @@
 ## GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit0110&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rohit0110" />
+
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit0110&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
