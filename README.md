@@ -2,7 +2,7 @@
 
 ## I'm a Student and Programmer!!
 
-- 🔭 I am working Flutter Applications!
+- 🔭 I am working on Flutter Applications!
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to work on any projects!
 - 🥅 2022 Goal: Build a wide variety of projects
