@@ -3,9 +3,8 @@
 ## I'm a Student and Programmer!!
 
 - 🔭 I am working on a personal project to improve my language learning skills!
-- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to work on any projects!
-- 🥅 2024 Goal: Excel at Data Science
+- 🥅 2024 Goal: Learn Rust
 - ⚡ Fun fact: I am better at making puns than i am at coding and have a 500+ day streak on Duolingo.
 
 ### Connect with me:
