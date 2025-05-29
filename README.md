@@ -4,8 +4,8 @@
 
 - 🔭 I am working on a personal project to improve my language learning skills!
 - 👯 I’m looking to work on any projects!
-- 🥅 2024 Goal: Learn Rust
-- ⚡ Fun fact: I am better at making puns than i am at coding and have a 500+ day streak on Duolingo.
+- 🥅 2025 Goal: Learn Solana
+- ⚡ Fun fact: I am better at making puns than i am at coding and have a 1000+ day streak on Duolingo.
 
 ### Connect with me:
 
